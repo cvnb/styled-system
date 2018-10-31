@@ -38,17 +38,17 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.0.0",
-    "ava": "^1.0.0-beta.8",
+    "ava": "^1.0.0-rc.1",
     "benchmark": "^2.1.4",
     "is-ci": "^1.1.0",
     "mdx-go": "^2.0.0-29",
     "nyc": "^12.0.2",
-    "react": "^16.4.0",
-    "react-live": "^1.11.0",
-    "react-test-renderer": "^16.4.0",
+    "react": "^16.6.0",
+    "react-live": "^1.12.0",
+    "react-test-renderer": "^16.6.0",
     "rebass": "^3.0.0-8",
     "scrs": "^1.1.0",
-    "styled-components": "^4.0.0-beta.9-macro2"
+    "styled-components": "^4.0.3"
   },
   "ava": {
     "require": [
